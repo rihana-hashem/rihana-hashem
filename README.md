@@ -1,6 +1,6 @@
 # Hi, I'm Rihana 👋
 
-### Senior Software Engineer | .NET Backend | System Integration | Azure
+### Senior Software Engineer | .NET Backend Python| System Integration | Azure
 
 I'm a software engineer with over 10 years of experience building enterprise applications, business-critical backend services, and distributed integrations.
 
