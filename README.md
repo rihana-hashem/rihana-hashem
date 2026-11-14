@@ -15,13 +15,17 @@ My background includes approximately five years developing ERP and e-learning sy
 - **Architecture:** Clean Architecture, Microservices, Distributed Systems, SOLID
 - **Engineering:** Git, CI/CD, Observability, Serilog, Grafana, Docker
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [PulseMonitor](https://github.com/rihana-hashem/pulsemonitor)
 
 A full-stack server monitoring application built with .NET 10, React, TypeScript, SQL Server, Hangfire, and SignalR.
 
 Includes server metrics, real-time dashboards, alert management, asynchronous reporting, authentication, and automated tests.
+
+### [ServiceObservability](https://github.com/rihana-hashem/ServiceObservability)
+
+A modular .NET 10 library for structured logging, correlation ID propagation, and sensitive-data redaction. It integrates with Serilog, HttpClient, and Hangfire, with a sample ASP.NET Core API and automated tests.
 
 ## 🎯 Current Focus
 
