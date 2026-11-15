@@ -8,7 +8,7 @@ My background includes approximately five years developing ERP and e-learning sy
 
 ## 🛠️ Technical Expertise
 
-- **Backend:** C#, ASP.NET Core, .NET 10, REST APIs, EF Core
+- **Backend:** C#, ASP.NET Core, .NET 10, REST APIs, EF Core, Python
 - **Frontend:** React, TypeScript, Angular
 - **Databases:** SQL Server, PostgreSQL
 - **Cloud:** Microsoft Azure, App Service, Functions, API Management, Logic Apps
